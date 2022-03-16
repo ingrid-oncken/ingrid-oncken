@@ -9,7 +9,7 @@
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> About Me </h2>
 
 
-- 👩🏽‍💻 I’m currently working on [My Personal Cookbook Frontend](https://github.com/ingrid-oncken/recipe-book_FE) [My Personal Cookbook Backend](https://github.com/ingrid-oncken/recipe-book_BE)<br>
+- 👩🏽‍💻 I’m currently working on [My Personal Cookbook Frontend](https://github.com/ingrid-oncken/recipe-book_FE) & [My Personal Cookbook Backend](https://github.com/ingrid-oncken/recipe-book_BE)<br>
      
 
 - 💬 Talk to me about Web development, Job Opportunities, Effective Communication 
