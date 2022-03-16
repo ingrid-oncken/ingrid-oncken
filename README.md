@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
-</div>
-
 <h1>< Hello World/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -47,10 +43,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-oncken&theme=synthwave" />
 </a>
   
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ingrid_oncken&compact=True"/>
-</a>
 <br>
 
 
